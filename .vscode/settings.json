@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/06c484ef-9b7b-485b-840b-7d5eb05ffd82/resourceGroups/taboverviewai/providers/Microsoft.Web/sites/taboverviewai",
+    "appService.deploySubpath": "."
+}
